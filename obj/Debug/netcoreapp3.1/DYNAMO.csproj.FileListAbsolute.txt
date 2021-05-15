@@ -1,0 +1,12 @@
+E:\Users\Ramanan\source\repos\course_hero\bin\Debug\netcoreapp3.1\DYNAMO.exe
+E:\Users\Ramanan\source\repos\course_hero\bin\Debug\netcoreapp3.1\DYNAMO.deps.json
+E:\Users\Ramanan\source\repos\course_hero\bin\Debug\netcoreapp3.1\DYNAMO.runtimeconfig.json
+E:\Users\Ramanan\source\repos\course_hero\bin\Debug\netcoreapp3.1\DYNAMO.runtimeconfig.dev.json
+E:\Users\Ramanan\source\repos\course_hero\bin\Debug\netcoreapp3.1\DYNAMO.dll
+E:\Users\Ramanan\source\repos\course_hero\bin\Debug\netcoreapp3.1\DYNAMO.pdb
+E:\Users\Ramanan\source\repos\course_hero\obj\Debug\netcoreapp3.1\DYNAMO.AssemblyInfoInputs.cache
+E:\Users\Ramanan\source\repos\course_hero\obj\Debug\netcoreapp3.1\DYNAMO.AssemblyInfo.cs
+E:\Users\Ramanan\source\repos\course_hero\obj\Debug\netcoreapp3.1\DYNAMO.csproj.CoreCompileInputs.cache
+E:\Users\Ramanan\source\repos\course_hero\obj\Debug\netcoreapp3.1\DYNAMO.dll
+E:\Users\Ramanan\source\repos\course_hero\obj\Debug\netcoreapp3.1\DYNAMO.pdb
+E:\Users\Ramanan\source\repos\course_hero\obj\Debug\netcoreapp3.1\DYNAMO.genruntimeconfig.cache

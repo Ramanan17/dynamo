@@ -1,0 +1,13 @@
+E:\Users\Ramanan\source\repos\course_hero\bin\Debug\netcoreapp3.1\course_hero.exe
+E:\Users\Ramanan\source\repos\course_hero\bin\Debug\netcoreapp3.1\course_hero.deps.json
+E:\Users\Ramanan\source\repos\course_hero\bin\Debug\netcoreapp3.1\course_hero.runtimeconfig.json
+E:\Users\Ramanan\source\repos\course_hero\bin\Debug\netcoreapp3.1\course_hero.runtimeconfig.dev.json
+E:\Users\Ramanan\source\repos\course_hero\bin\Debug\netcoreapp3.1\course_hero.dll
+E:\Users\Ramanan\source\repos\course_hero\bin\Debug\netcoreapp3.1\course_hero.pdb
+E:\Users\Ramanan\source\repos\course_hero\obj\Debug\netcoreapp3.1\course_hero.csprojAssemblyReference.cache
+E:\Users\Ramanan\source\repos\course_hero\obj\Debug\netcoreapp3.1\course_hero.AssemblyInfoInputs.cache
+E:\Users\Ramanan\source\repos\course_hero\obj\Debug\netcoreapp3.1\course_hero.AssemblyInfo.cs
+E:\Users\Ramanan\source\repos\course_hero\obj\Debug\netcoreapp3.1\course_hero.csproj.CoreCompileInputs.cache
+E:\Users\Ramanan\source\repos\course_hero\obj\Debug\netcoreapp3.1\course_hero.dll
+E:\Users\Ramanan\source\repos\course_hero\obj\Debug\netcoreapp3.1\course_hero.pdb
+E:\Users\Ramanan\source\repos\course_hero\obj\Debug\netcoreapp3.1\course_hero.genruntimeconfig.cache
